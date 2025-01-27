@@ -15,17 +15,16 @@ st.line_chart(data=titanic["Age"])
 
 st.dataframe(data=titanic[["Survived", "Age"]])
 
-st.table(data=titanic[["Age", "Sex"]])
-
 st.area_chart(data=titanic[["Age", "Survived"]])
-
-st.table(data=titanic[["Age", "Sex"]])
 
 chart_data = pd.DataFrame(np.random.randn(20, 3), columns=["a", "b", "c"])
 
 st.area_chart(chart_data)
 
 st.table(data=titanic[["Cabin", "Ticket"]])
+
+st.table(data=titanic[["Age", "Sex"]])
+
 
 """Ticket
  Objetivo: Usando https://docs.streamlit.io/develop/api-reference crear 3 elementos para mostrar datos de Titanic.
