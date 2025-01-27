@@ -84,16 +84,11 @@ Mapas de Calor: Para identificar correlaciones entre múltiples variables.
 4. Conclusión
 La tragedia del Titanic pone en evidencia las desigualdades sociales y cómo estas afectaron las posibilidades de supervivencia. Las mujeres y los niños, especialmente en primera clase, tuvieron mayores probabilidades de sobrevivir, mientras que los hombres y los pasajeros de tercera clase enfrentaron un destino mucho más adverso.
 
-=======
+----Luis Cara-----
+27/01/2025
+
 Segun expertos de salvamento, La supervivencia en el mar frío depende de varios factores: evitar la hipotermia conservando el calor corporal (posición HELP y agrupamiento), minimizar el tiempo de exposición y usar trajes de neopreno o chalecos salvavidas para flotabilidad y aislamiento. La calma mental es crucial para tomar decisiones acertadas, mientras que una buena condición física mejora la resistencia. Los colores llamativos facilitan el rescate. Además, el acceso a objetos flotantes o refugios temporales puede ser decisivo. La hidratación y nutrición previas ayudan a mantener energía, y el entrenamiento previo mejora la respuesta en emergencias, aumentando significativamente las posibilidades de supervivencia.
 
 ---ALBERTO---
 
 <<<<<<< HEAD
-=======
------Luis cara---
-
-El análisis de los supervivientes del Titanic es un tema fascinante que permite explorar diversas variables relacionadas con las características de los pasajeros y sus posibilidades de sobrevivir al desastre marítimo. Los datos más completos sobre este tema provienen del famoso dataset de Kaggle, que incluye información detallada de cada pasajero, como su clase, género, edad, tarifa pagada, entre otros.
-
->>>>>>> c371fd08e56da10cb5c0b476d4109ae647be6826
----Luis Cara-----27/01/2025
