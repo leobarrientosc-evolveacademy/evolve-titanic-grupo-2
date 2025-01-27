@@ -15,4 +15,4 @@ st.table(data=titanic[["Age", "Sex"]])
         https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html
         https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html
 
-""" 
+"""
