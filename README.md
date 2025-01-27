@@ -43,3 +43,23 @@ Alberto:    Segun expertos de salvamento, La supervivencia en el mar frío depen
 El análisis de los supervivientes del Titanic es un tema fascinante que permite explorar diversas variables relacionadas con las características de los pasajeros y sus posibilidades de sobrevivir al desastre marítimo. Los datos más completos sobre este tema provienen del famoso dataset de Kaggle, que incluye información detallada de cada pasajero, como su clase, género, edad, tarifa pagada, entre otros.
 
 ---Luis Cara-----
+
+
+¿Qué factores influyeron en la supervivencia?
+Esta es la pregunta central. Se busca identificar las variables (como sexo, edad, clase, tarifa, etc.) que tuvieron el mayor impacto en la probabilidad de sobrevivir al hundimiento.
+
+¿Cómo afectan el género y la clase social a las probabilidades de supervivencia?
+Esto ayuda a comprender si las diferencias de género y clase tuvieron un efecto significativo en la posibilidad de ser rescatado.
+
+¿Qué rol jugó la edad en la supervivencia?
+Analizar si los niños o los adultos mayores tuvieron más probabilidades de sobrevivir en comparación con los adultos jóvenes.
+
+¿En qué medida la posición en el barco (por ejemplo, la ubicación de las cabinas) impactó la supervivencia?
+Esto aborda la influencia de la ubicación dentro del barco y la proximidad a los botes salvavidas.
+
+¿Qué características predicen mejor la supervivencia?
+Aquí se buscan patrones en los datos que permitan predecir si un pasajero sobreviviría o no, basado en su perfil.
+
+¿Hubo diferencias en las tasas de supervivencia entre los diferentes puertos de embarque (Southampton, Cherbourg, Queenstown)?
+Esta pregunta busca investigar si los pasajeros de ciertos puertos tuvieron más o menos probabilidades de sobrevivir, posiblemente debido a diferencias en la organización del rescate o las condiciones del viaje.
+---Sergio Lopez---
