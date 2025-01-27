@@ -15,3 +15,5 @@ Relevancia Histórica y Social: El Titanic es un evento histórico con una gran 
 
 ----- ESCRITO POR MARCO -------
 
+Alberto:    Segun expertos de salvamento, La supervivencia en el mar frío depende de varios factores: evitar la hipotermia conservando el calor corporal (posición HELP y agrupamiento), minimizar el tiempo de exposición y usar trajes de neopreno o chalecos salvavidas para flotabilidad y aislamiento. La calma mental es crucial para tomar decisiones acertadas, mientras que una buena condición física mejora la resistencia. Los colores llamativos facilitan el rescate. Además, el acceso a objetos flotantes o refugios temporales puede ser decisivo. La hidratación y nutrición previas ayudan a mantener energía, y el entrenamiento previo mejora la respuesta en emergencias, aumentando significativamente las posibilidades de supervivencia.
+
