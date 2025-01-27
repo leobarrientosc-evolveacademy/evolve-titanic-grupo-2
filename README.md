@@ -7,7 +7,7 @@ El **Titanic** es un transatlántico británico famoso por hundirse en el océan
 Es popular en análisis porque permite practicar la clasificación binaria (sobrevivió/no sobrevivió) y aprender sobre técnicas de preprocesamiento, modelado y evaluación. Además, debido a su simplicidad y accesibilidad, es un conjunto de datos ideal para principiantes y expertos que quieren experimentar con diferentes algoritmos y enfoques.
 
 
-------ESCRITO POR MARCO-------
+---ESCRITO POR MARCO---
 
 El hundimiento del Titanic es uno de los desastres marítimos más famosos de la historia, y por buenas razones. Este lujoso transatlántico, considerado insumergible en su época, se hundió en su viaje inaugural en 1912 tras chocar con un iceberg. La tragedia cobró la vida de más de 1.500 personas, dejando una profunda huella en la conciencia colectiva.
 
@@ -20,7 +20,11 @@ Relevancia Histórica y Social: El Titanic es un evento histórico con una gran 
 
 ¿Por qué analizar la situación mental y física de los supervivientes?
 
-Alberto: La mente juega un papel crucial en situaciones de alto estrés y supervivencia, ya que puede determinar la capacidad de una persona para adaptarse, tomar decisiones y conservar energía en momentos críticos. Su importancia radica en varios aspectos clave:
+----- ESCRITO POR MARCO -------
+
+--- ALBERTO ---
+
+La mente juega un papel crucial en situaciones de alto estrés y supervivencia, ya que puede determinar la capacidad de una persona para adaptarse, tomar decisiones y conservar energía en momentos críticos. Su importancia radica en varios aspectos clave:
 
 Control del pánico: Mantener la calma ayuda a evitar reacciones impulsivas que podrían empeorar la situación. El pánico aumenta la frecuencia cardíaca, acelera la pérdida de energía y dificulta el razonamiento lógico.
 
@@ -34,8 +38,9 @@ Memoria y entrenamiento: El acceso a conocimientos previos y técnicas de superv
 
 En resumen, una mente fuerte y entrenada mejora significativamente las probabilidades de sobrevivir al permitir una mejor gestión de recursos, tiempo y energía.
 
------ ESCRITO POR MARCO -------
+Segun expertos de salvamento, La supervivencia en el mar frío depende de varios factores: evitar la hipotermia conservando el calor corporal (posición HELP y agrupamiento), minimizar el tiempo de exposición y usar trajes de neopreno o chalecos salvavidas para flotabilidad y aislamiento. La calma mental es crucial para tomar decisiones acertadas, mientras que una buena condición física mejora la resistencia. Los colores llamativos facilitan el rescate. Además, el acceso a objetos flotantes o refugios temporales puede ser decisivo. La hidratación y nutrición previas ayudan a mantener energía, y el entrenamiento previo mejora la respuesta en emergencias, aumentando significativamente las posibilidades de supervivencia.
 
+<<<<<<< HEAD
 Alberto:    Segun expertos de salvamento, La supervivencia en el mar frío depende de varios factores: evitar la hipotermia conservando el calor corporal (posición HELP y agrupamiento), minimizar el tiempo de exposición y usar trajes de neopreno o chalecos salvavidas para flotabilidad y aislamiento. La calma mental es crucial para tomar decisiones acertadas, mientras que una buena condición física mejora la resistencia. Los colores llamativos facilitan el rescate. Además, el acceso a objetos flotantes o refugios temporales puede ser decisivo. La hidratación y nutrición previas ayudan a mantener energía, y el entrenamiento previo mejora la respuesta en emergencias, aumentando significativamente las posibilidades de supervivencia.
 
 ----------------------------------
@@ -79,4 +84,16 @@ Mapas de Calor: Para identificar correlaciones entre múltiples variables.
 4. Conclusión
 La tragedia del Titanic pone en evidencia las desigualdades sociales y cómo estas afectaron las posibilidades de supervivencia. Las mujeres y los niños, especialmente en primera clase, tuvieron mayores probabilidades de sobrevivir, mientras que los hombres y los pasajeros de tercera clase enfrentaron un destino mucho más adverso.
 
+=======
+Segun expertos de salvamento, La supervivencia en el mar frío depende de varios factores: evitar la hipotermia conservando el calor corporal (posición HELP y agrupamiento), minimizar el tiempo de exposición y usar trajes de neopreno o chalecos salvavidas para flotabilidad y aislamiento. La calma mental es crucial para tomar decisiones acertadas, mientras que una buena condición física mejora la resistencia. Los colores llamativos facilitan el rescate. Además, el acceso a objetos flotantes o refugios temporales puede ser decisivo. La hidratación y nutrición previas ayudan a mantener energía, y el entrenamiento previo mejora la respuesta en emergencias, aumentando significativamente las posibilidades de supervivencia.
+
+---ALBERTO---
+
+<<<<<<< HEAD
+=======
+-----Luis cara---
+
+El análisis de los supervivientes del Titanic es un tema fascinante que permite explorar diversas variables relacionadas con las características de los pasajeros y sus posibilidades de sobrevivir al desastre marítimo. Los datos más completos sobre este tema provienen del famoso dataset de Kaggle, que incluye información detallada de cada pasajero, como su clase, género, edad, tarifa pagada, entre otros.
+
+>>>>>>> c371fd08e56da10cb5c0b476d4109ae647be6826
 ---Luis Cara-----
