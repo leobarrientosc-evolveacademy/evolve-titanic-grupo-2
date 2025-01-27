@@ -45,21 +45,14 @@ El análisis de los supervivientes del Titanic es un tema fascinante que permite
 ---Luis Cara-----
 
 
-¿Qué factores influyeron en la supervivencia?
-Esta es la pregunta central. Se busca identificar las variables (como sexo, edad, clase, tarifa, etc.) que tuvieron el mayor impacto en la probabilidad de sobrevivir al hundimiento.
+Los datos del Titanic provienen de un conjunto de datos real sobre los pasajeros a bordo del RMS Titanic, recopilados a partir de los registros oficiales del barco después del hundimiento en 1912. Estos registros fueron utilizados para crear un conjunto de datos que ha sido ampliamente utilizado en la comunidad de ciencia de datos y aprendizaje automático.
 
-¿Cómo afectan el género y la clase social a las probabilidades de supervivencia?
-Esto ayuda a comprender si las diferencias de género y clase tuvieron un efecto significativo en la posibilidad de ser rescatado.
+El conjunto de datos original fue proporcionado por Kaggle, una plataforma de competencias de ciencia de datos. Específicamente, se encuentra disponible como parte de un desafío clásico llamado Titanic: Machine Learning from Disaster, que es uno de los tutoriales más populares para principiantes en el análisis de datos y en el uso de algoritmos de aprendizaje automático.
 
-¿Qué rol jugó la edad en la supervivencia?
-Analizar si los niños o los adultos mayores tuvieron más probabilidades de sobrevivir en comparación con los adultos jóvenes.
-
-¿En qué medida la posición en el barco (por ejemplo, la ubicación de las cabinas) impactó la supervivencia?
-Esto aborda la influencia de la ubicación dentro del barco y la proximidad a los botes salvavidas.
-
-¿Qué características predicen mejor la supervivencia?
-Aquí se buscan patrones en los datos que permitan predecir si un pasajero sobreviviría o no, basado en su perfil.
-
-¿Hubo diferencias en las tasas de supervivencia entre los diferentes puertos de embarque (Southampton, Cherbourg, Queenstown)?
-Esta pregunta busca investigar si los pasajeros de ciertos puertos tuvieron más o menos probabilidades de sobrevivir, posiblemente debido a diferencias en la organización del rescate o las condiciones del viaje.
----Sergio Lopez---
+Fuentes originales:
+Registros del Titanic: Después del desastre, se recopilaron registros de los pasajeros sobrevivientes y fallecidos, así como detalles sobre su clase, edad, sexo, etc. Estos datos fueron recolectados por diversas fuentes, incluyendo la Oficina de la Compañía White Star Line (la empresa propietaria del Titanic), informes gubernamentales e informes de la prensa de la época.
+Dataset en Kaggle:
+El conjunto de datos específico utilizado en Kaggle es una versión procesada y anónima de estos registros, que incluye información sobre más de 1,300 pasajeros, tales como su edad, sexo, clase de pasajero, tarifa, embarcación, familiares a bordo y si sobrevivieron o no.
+Este conjunto de datos se ha utilizado ampliamente como base para ejercicios de predicción de clasificación, dado que la variable objetivo es si un pasajero sobrevivió al hundimiento (sí/no).
+El conjunto de datos de Kaggle se obtiene como parte de un desafío educativo y es accesible de forma gratuita para que los usuarios lo utilicen en análisis y experimentos de machine learning.
+--- Sergio Lopez---
