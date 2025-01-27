@@ -96,4 +96,4 @@ Segun expertos de salvamento, La supervivencia en el mar frío depende de varios
 El análisis de los supervivientes del Titanic es un tema fascinante que permite explorar diversas variables relacionadas con las características de los pasajeros y sus posibilidades de sobrevivir al desastre marítimo. Los datos más completos sobre este tema provienen del famoso dataset de Kaggle, que incluye información detallada de cada pasajero, como su clase, género, edad, tarifa pagada, entre otros.
 
 >>>>>>> c371fd08e56da10cb5c0b476d4109ae647be6826
----Luis Cara-----
+---Luis Cara-----27/01/2025
