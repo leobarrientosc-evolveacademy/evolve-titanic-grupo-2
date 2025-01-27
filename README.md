@@ -37,3 +37,46 @@ En resumen, una mente fuerte y entrenada mejora significativamente las probabili
 ----- ESCRITO POR MARCO -------
 
 Alberto:    Segun expertos de salvamento, La supervivencia en el mar frío depende de varios factores: evitar la hipotermia conservando el calor corporal (posición HELP y agrupamiento), minimizar el tiempo de exposición y usar trajes de neopreno o chalecos salvavidas para flotabilidad y aislamiento. La calma mental es crucial para tomar decisiones acertadas, mientras que una buena condición física mejora la resistencia. Los colores llamativos facilitan el rescate. Además, el acceso a objetos flotantes o refugios temporales puede ser decisivo. La hidratación y nutrición previas ayudan a mantener energía, y el entrenamiento previo mejora la respuesta en emergencias, aumentando significativamente las posibilidades de supervivencia.
+
+----------------------------------
+
+El análisis de los supervivientes del Titanic es un tema fascinante que permite explorar diversas variables relacionadas con las características de los pasajeros y sus posibilidades de sobrevivir al desastre marítimo. Los datos más completos sobre este tema provienen del famoso dataset de Kaggle, que incluye información detallada de cada pasajero, como su clase, género, edad, tarifa pagada, entre otros.
+
+A continuación, se describe un análisis típico sobre los supervivientes del Titanic:
+
+1. Datos Generales
+El Titanic tenía aproximadamente 2,224 pasajeros y tripulantes, de los cuales alrededor de 1,500 murieron y 710 sobrevivieron. Esto representa una tasa de supervivencia aproximada del 32%.
+
+2. Factores Clave que Influyeron en la Supervivencia
+a) Clase del Pasajero
+Primera Clase: Los pasajeros de primera clase tenían más probabilidades de sobrevivir debido a su proximidad a los botes salvavidas y el trato preferencial que recibieron.
+Tasa de supervivencia: ~62%.
+Segunda Clase: Probabilidades moderadas de sobrevivir.
+Tasa de supervivencia: ~47%.
+Tercera Clase: Los pasajeros de tercera clase fueron los más afectados debido a su ubicación más profunda en el barco y la falta de acceso rápido a los botes salvavidas.
+Tasa de supervivencia: ~25%.
+b) Género
+Mujeres: La regla "mujeres y niños primero" benefició significativamente a las mujeres.
+Tasa de supervivencia: ~74%.
+Hombres: Los hombres enfrentaron una baja probabilidad de sobrevivir.
+Tasa de supervivencia: ~20%.
+c) Edad
+Niños: Los niños, especialmente en primera y segunda clase, tuvieron más posibilidades de ser rescatados.
+Tasa de supervivencia para menores de 15 años: ~55%.
+Adultos mayores: Las personas mayores de 50 años tenían menos probabilidades de sobrevivir.
+d) Familias y Acompañantes
+Las personas que viajaban en familia o con acompañantes tenían mayores probabilidades de sobrevivir que las que viajaban solas.
+e) Puertos de Embarque
+Los pasajeros embarcaron en tres puertos principales:
+Cherburgo (C): Mayoría de pasajeros de primera clase.
+Queenstown (Q): Mayoría de pasajeros de tercera clase.
+Southampton (S): Mayor diversidad de clases.
+La tasa de supervivencia varió dependiendo del puerto de embarque.
+3. Visualización de Datos (Opcional)
+Gráficos de Barras: Comparar tasas de supervivencia por género, clase y edad.
+Diagramas de Dispersión: Analizar la relación entre la tarifa pagada y la probabilidad de sobrevivir.
+Mapas de Calor: Para identificar correlaciones entre múltiples variables.
+4. Conclusión
+La tragedia del Titanic pone en evidencia las desigualdades sociales y cómo estas afectaron las posibilidades de supervivencia. Las mujeres y los niños, especialmente en primera clase, tuvieron mayores probabilidades de sobrevivir, mientras que los hombres y los pasajeros de tercera clase enfrentaron un destino mucho más adverso.
+
+---Luis Cara-----
