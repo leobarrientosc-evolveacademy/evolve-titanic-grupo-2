@@ -14,6 +14,7 @@ st.line_chart(data=titanic["Age"])
 
 st.dataframe(data=titanic[["Survived", "Age"]])
 
+st.area_chart(data=titanic[["Age", "Survived"]])
 
 st.table(data=titanic[["Age", "Sex"]])
 
