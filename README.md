@@ -4,3 +4,13 @@ El **Titanic** es un transatlántico británico famoso por hundirse en el océan
 
 Es popular en análisis porque permite practicar la clasificación binaria (sobrevivió/no sobrevivió) y aprender sobre técnicas de preprocesamiento, modelado y evaluación. Además, debido a su simplicidad y accesibilidad, es un conjunto de datos ideal para principiantes y expertos que quieren experimentar con diferentes algoritmos y enfoques.
 
+
+------ESCRITO POR MARCO-------
+
+estoy de acuerdo
+
+-----Luis cara---
+
+El análisis de los supervivientes del Titanic es un tema fascinante que permite explorar diversas variables relacionadas con las características de los pasajeros y sus posibilidades de sobrevivir al desastre marítimo. Los datos más completos sobre este tema provienen del famoso dataset de Kaggle, que incluye información detallada de cada pasajero, como su clase, género, edad, tarifa pagada, entre otros.
+
+---Luis Cara-----
