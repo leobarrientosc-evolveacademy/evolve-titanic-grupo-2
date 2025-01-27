@@ -10,7 +10,7 @@ st.write("Edad promedio de los pasajeros: ", titanic["Age"].mean())
 
 st.line_chart(data=titanic["Age"])
 
-st.dataframe(data=titanic[["Survived", "Age"]])
+st.dataframe(data=titanic["Survived", "Age"])
 
 st.table(data=titanic[["Age", "Sex"]])
 
