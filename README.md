@@ -85,10 +85,85 @@ Mapas de Calor: Para identificar correlaciones entre múltiples variables.
 La tragedia del Titanic pone en evidencia las desigualdades sociales y cómo estas afectaron las posibilidades de supervivencia. Las mujeres y los niños, especialmente en primera clase, tuvieron mayores probabilidades de sobrevivir, mientras que los hombres y los pasajeros de tercera clase enfrentaron un destino mucho más adverso.
 
 ----Luis Cara-----
-27/01/2025.
+27/01/2025
 
 Segun expertos de salvamento, La supervivencia en el mar frío depende de varios factores: evitar la hipotermia conservando el calor corporal (posición HELP y agrupamiento), minimizar el tiempo de exposición y usar trajes de neopreno o chalecos salvavidas para flotabilidad y aislamiento. La calma mental es crucial para tomar decisiones acertadas, mientras que una buena condición física mejora la resistencia. Los colores llamativos facilitan el rescate. Además, el acceso a objetos flotantes o refugios temporales puede ser decisivo. La hidratación y nutrición previas ayudan a mantener energía, y el entrenamiento previo mejora la respuesta en emergencias, aumentando significativamente las posibilidades de supervivencia.
 
 ---ALBERTO---
 
 <<<<<<< HEAD
+Resumen del Titanic en función de los datos conocidos:
+Número de pasajeros:
+
+En total, el RMS Titanic llevaba alrededor de 2,224 personas a bordo, incluyendo pasajeros y tripulación.
+El conjunto de datos más conocido que se usa para el análisis, como el de Kaggle, contiene 891 pasajeros (aproximadamente un 40% del total de los pasajeros a bordo), ya que solo se tiene información sobre los que fueron registrados.
+Número de sobrevivientes:
+
+709 personas sobrevivieron al desastre del Titanic (alrededor del 32% de los pasajeros a bordo).
+En el conjunto de datos de Kaggle, 342 sobrevivieron (de los 891 pasajeros), lo que refleja esta tasa de supervivencia aproximada.
+Clases de los pasajeros (Pclass):
+
+Primera clase: Aproximadamente 325 pasajeros viajaban en primera clase.
+Segunda clase: Un total de alrededor de 285 pasajeros viajaban en segunda clase.
+Tercera clase: Aproximadamente 710 pasajeros viajaban en tercera clase.
+En el dataset, las clases se dividen de la siguiente forma:
+Pclass = 1 (primera clase) tuvo una tasa de supervivencia mucho más alta.
+Pclass = 3 (tercera clase) tuvo la tasa de mortalidad más alta.
+Género de los pasajeros (Sex):
+
+Masculino: Aproximadamente el 75% de los pasajeros eran hombres.
+Femenino: Aproximadamente el 25% eran mujeres.
+En términos de supervivencia:
+Las mujeres tuvieron una tasa de supervivencia significativamente más alta, especialmente las de primera clase.
+Los hombres tuvieron una tasa de supervivencia mucho más baja.
+Edad de los pasajeros (Age):
+
+La edad promedio de los pasajeros a bordo era de alrededor de 30 años.
+Los niños tuvieron una tasa de supervivencia notablemente más alta debido a que fueron priorizados en los botes salvavidas.
+Los adultos mayores también tuvieron mayores probabilidades de no sobrevivir debido a la dificultad para llegar a los botes.
+Hermanos o cónyuges a bordo (SibSp):
+
+Muchos pasajeros viajaban con familiares, siendo común tener entre 1 y 3 familiares a bordo.
+Los pasajeros que viajaban con familiares tenían más probabilidades de sobrevivir, ya que tendían a estar en el mismo bote salvavidas o tenían más recursos para asegurar su supervivencia.
+Padres o hijos a bordo (Parch):
+
+Un número considerable de pasajeros viajaba con padres o hijos. Al igual que con los hermanos y cónyuges, esto afectaba la probabilidad de supervivencia, ya que los niños fueron favorecidos durante el proceso de evacuación.
+Tarifa del boleto (Fare):
+
+Las tarifas variaban mucho dependiendo de la clase de cabina. Los pasajeros de primera clase pagaban tarifas mucho más altas, mientras que los de tercera clase tenían tarifas más bajas.
+En el dataset, los valores de la tarifa fluctúan entre 0 y 512.3291, que es el costo de la tarifa más alta registrada (para una primera clase).
+Puerto de embarque (Embarked):
+
+El Titanic partió de Southampton en el Reino Unido, hizo una parada en Cherbourg (Francia) y luego en Queenstown (hoy conocido como Cobh, Irlanda).
+En el dataset:
+S = Southampton: La mayoría de los pasajeros embarcaron en Southampton.
+C = Cherbourg: Menor cantidad de pasajeros embarcaron en Cherbourg.
+Q = Queenstown: La cantidad de pasajeros de este puerto es la más baja.
+Cabina (Cabin):
+
+La información sobre las cabinas en el dataset está bastante incompleta. Solo algunos pasajeros tienen esta información disponible, pero las cabinas son importantes porque influyen en la proximidad de los pasajeros a los botes salvavidas.
+Muchos de los pasajeros que no sobrevivieron viajaban en las cubiertas más bajas, lo que dificultaba el acceso a los botes salvavidas.
+Distribución de los datos según algunas variables clave (basadas en el conjunto de datos de Kaggle):
+Survived:
+
+0 = No sobrevivió: 549 pasajeros.
+1 = Sobrevivió: 342 pasajeros.
+Pclass:
+
+1ª clase: 216 pasajeros.
+2ª clase: 184 pasajeros.
+3ª clase: 491 pasajeros.
+Sex:
+
+Masculino: 577 pasajeros.
+Femenino: 314 pasajeros.
+Age:
+
+Varía entre 0 (recién nacido) hasta 80 años.
+Promedio de edad: 29.7 años (en el dataset).
+Embarked:
+
+Southampton (S): 644 pasajeros.
+Cherbourg (C): 168 pasajeros.
+Queenstown (Q): 77 pasajeros.
+---Sergio Lopez---

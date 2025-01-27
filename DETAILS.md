@@ -1,5 +1,3 @@
-----ALBERTO---
-
 Estructura Propuesta para el README
 
 1. Título del Proyecto
