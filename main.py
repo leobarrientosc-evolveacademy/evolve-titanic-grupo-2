@@ -9,7 +9,7 @@ st.title("Titanic, Supervivientes:")
 st.write("Edad promedio de los pasajeros: ", titanic["Age"].mean())
 
 st.line_chart(data=titanic["Age"])
-st.dataframe(data=titanic[["survived", "Age"]])
+st.dataframe(data=titanic[["Survived", "Age"]])
 
 st.metric(label="Promedio de Edad", value=titanic["Age"].mean())
 
