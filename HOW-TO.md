@@ -17,6 +17,6 @@ Ejecutar:
 pipenv run streamlit run main.py
 ```
 
-Abrir en el Navegador:
+Abrir en el Navegador::
 
 http://127.0.0.1:8501
