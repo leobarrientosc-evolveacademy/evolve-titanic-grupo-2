@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
 streamlit = "*"
-streamlit-extras = "*"
+pandas = "*"
+plotly = "*"
 
 [dev-packages]
 
